@@ -1,0 +1,5 @@
+test@gmail.com
+info@yandex.ru
+support@mail.ru
+hello@outlook.com
+user@nonexistent-domain-xyz-123.invalid
